@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+    width: 414px;
+    height: 736x;
+    background-color: black;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.gris {
+    color: grey;
+    font-size: 0.6rem;
+}
+
+.chevron {
+    padding-top: 0.1rem;
+    font-size: 140%;
+    margin: 1rem;
+}
+
+.icon1 {
+    padding-top: 0.5rem;
+    color: white;
+}
+
+.headtext {
+    color: white;
+    text-align: center;
+    padding-top: 0.7rem;
+    padding-left: 3rem;
+    font-size: 0.8rem;
+}
+
+.abonner {
+    color: rgb(84, 130, 190);
+    text-align: right;
+    padding-top: 0.5rem;
+    margin: 1rem;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    background: black;
+}
+
+.img img {
+    width: 2rem;
+    height: auto;
+    margin-top: 0.3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 100%;
+}
+
+.headtext2 {
+    color: white;
+    padding-top: 0.3rem;
+}
+
+.versailles {
+    font-size: 0.7rem;
+    padding-bottom: 0.9rem;
+}
+
+.points {
+    color: white;
+    font-size: large;
+    margin: 1rem;
+}
+
+.imgtext {
+    display: flex;
+}
+
+.img2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 100% 0;
+}
+
+.container4 {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 0.5rem;
+}
+
+.logogauche {
+    color: white;
+    font-size: 1rem;
+}
+
+.coeur {
+    margin-left: 0.5rem;
+}
+
+.chat {
+    margin-left: 1rem;
+}
+
+.loc {
+    margin-left: 1rem;
+}
+
+.logodroit {
+    color: white;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+}
+
+.container5 {
+    background-color: black;
+    color: white;
+    font-size: 0.8rem;
+    margin-left: 0.2rem;
+}
+
+.container6 {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 1.3rem;
+}
